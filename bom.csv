@@ -1,9 +1,12 @@
 Name,Quantity,Price (USD)
-Stepper motor driver NEMA 16-24, 5.6A,1,20.70
-Stepper motor NEMA23 2N.m 3A model 57HS76-3004A08,1,27.14
-DIN rail power supply 15W 24V Qoltec,1,11.05
-LOGO! Controller 6ED1052-1MD08-0BA2 12/24 RCE,1,140.30
-Overcurrent circuit breaker HN-C20/1 194832,1,5.45
-Control button LAS0-B3Y-11/R red,1,4.40
-Control button LAS0-B3Y-11/G green,1,4.40
-Aluminum profile 2020, 6 meters,1,57.50
+"Stepper motor driver NEMA 16-24, 5.6A",1,20.70
+"Stepper motor NEMA23 2N.m 3A model 57HS76-3004A08",1,27.14
+"DIN rail power supply 15W 24V Qoltec",1,11.05
+"LOGO! Controller 6ED1052-1MD08-0BA2 12/24 RCE",1,140.30
+"Overcurrent circuit breaker HN-C20/1 194832",1,5.45
+"Control button LAS0-B3Y-11/R red",1,4.40
+"Control button LAS0-B3Y-11/G green",1,4.40
+"Aluminum profile 2020, 6 meters",1,57.50
+"Ultrasonic distance sensor 3-500cm, RS4585, waterproof, DFRobot SEN0592",2,32.20
+
+Total,,335.34
