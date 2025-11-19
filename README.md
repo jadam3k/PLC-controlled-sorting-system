@@ -47,10 +47,12 @@ Key features include:
 
 ## 3D Model / Schematic
 
+<img width="454" height="309" alt="image" src="https://github.com/user-attachments/assets/65c4340d-f95f-4a07-9cbf-a26f348135fb" />
 
 ---
 
 ## LD CODE
+<img width="1384" height="510" alt="image" src="https://github.com/user-attachments/assets/af19ded6-742e-494d-9c79-3a1655f41c19" />
 
 
 
