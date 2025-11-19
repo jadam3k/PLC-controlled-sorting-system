@@ -1,3 +1,5 @@
+### Idk why journal doesnt work its not my fault
+
 # PLC-Controlled Sorting System
 
 ## Project Overview
