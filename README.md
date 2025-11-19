@@ -27,7 +27,7 @@ Key features include:
 | ONPOW button red NO/NC | 1 | 19.15 |
 | ONPOW button green NO/NC | 1 | 19.15 |
 | Siemens S7-1200 CPU 1214C | 1 | 1351.77 |
-| Aluminum extrusion profiles 2020 (6 meters) | 6 m | 300.00 |
+| Aluminum extrusion profiles 2020 (6 meters) | 6 m | 340.00 |
 | Grove Ultrasonic Distance Sensor (Seeedstudio) | 1 | 23.34 |
 | **Total** |   | 2361.67 |
 
