@@ -15,20 +15,27 @@ Key features include:
 
 ---
 
-Component,Quantity,Price (PLN)
-PU 8/5 mm pneumatic hose,1,3.30
-FRL unit (filter, dryer, oiler, regulator) 1/4",1,85.92
-AirTAC 5/2 monostable pneumatic valve 4M310-08AG,2,192.00
-Double-acting pneumatic cylinder 32×200 mm,2,310.00
-Stepper driver 5.6 A,1,90.00
-Stepper motor NEMA23, 2.0 Nm,1,118.00
-DIN-rail 24V / 15W power supply (Qoltec),2,96.04
-ONPOW button red NO/NC,1,19.15
-ONPOW button green NO/NC,1,19.15
-Siemens S7-1200 CPU 1214C,1,1351.77
-Aluminum extrusion profiles 2020 (6 meters),6,340.00
-Grove Ultrasonic Distance Sensor (Seeedstudio),3,70.02
-Circuit breaker HN-C20/1 194832,1,23.70
+## Bill of Materials (BOM)
+
+| Component | Quantity | Price (PLN) |
+|-----------|---------|------------|
+| PU 8/5 mm pneumatic hose | 1 | 3.30 |
+| FRL unit (filter, dryer, oiler, regulator) 1/4" | 1 | 85.92 |
+| AirTAC 5/2 monostable pneumatic valve 4M310-08AG | 2 | 192.00 |
+| Double-acting pneumatic cylinder 32×200 mm | 2 | 310.00 |
+| Stepper driver 5.6 A | 1 | 90.00 |
+| Stepper motor NEMA23, 2.0 Nm | 1 | 118.00 |
+| DIN-rail 24V / 15W power supply (Qoltec) | 2 | 96.04 |
+| ONPOW button red NO/NC | 1 | 19.15 |
+| ONPOW button green NO/NC | 1 | 19.15 |
+| Siemens S7-1200 CPU 1214C | 1 | 1351.77 |
+| Aluminum extrusion profiles 2020 (6 meters) | 6 | 340.00 |
+| Grove Ultrasonic Distance Sensor (Seeedstudio) | 3 | 70.02 |
+| Circuit breaker HN-C20/1 194832 | 1 | 23.70 |
+
+
+**Total:** 2409.05 PLN
+
 
 
 
