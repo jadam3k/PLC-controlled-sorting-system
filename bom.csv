@@ -2,13 +2,15 @@ Component,Quantity,Price (PLN)
 PU 8/5 mm pneumatic hose,1,3.30
 FRL unit 1/4in,1,85.92
 AirTAC 5/2 valve 4M310-08AG,2,192.00
-Double-acting cylinder 32x200 mm,1,80.00
+Double-acting cylinder 32x200 mm,2,310.00
 Stepper driver 5.6A,1,90.00
 NEMA23 stepper motor 2.0 Nm,1,118.00
 DIN-rail power supply 24V 15W (Qoltec),2,96.04
 ONPOW button red NO/NC,1,19.15
 ONPOW button green NO/NC,1,19.15
 Siemens S7-1200 CPU 1214C,1,1351.77
-2020 aluminum profiles (6 meters),6m,340.00
-Grove Ultrasonic Distance Sensor (Seeedstudio),1,23.34
-Total,,2401.67
+2020 aluminum profiles (6 meters),6,340.00
+Grove Ultrasonic Distance Sensor (Seeedstudio),2,70.02
+T-slot 2020/2040 aluminum profiles for CNC machine frame,2,202.59
+Circuit breaker HN-C20/1 194832,1,23.70
+Stepper motor driver NEMA16/17/23/24 up to 5.6A,1,90.00
