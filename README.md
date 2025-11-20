@@ -57,6 +57,11 @@ Key features include:
 ## LD CODE
 <img width="1384" height="510" alt="image" src="https://github.com/user-attachments/assets/af19ded6-742e-494d-9c79-3a1655f41c19" />
 
+## PLC SCHEMATIC AND view
+<img width="750" height="570" alt="image" src="https://github.com/user-attachments/assets/19ac9053-86d5-409c-a004-81d5426cd71e" />
+<img width="674" height="526" alt="image" src="https://github.com/user-attachments/assets/4c4cc033-daf3-4b93-8068-8577ef521d2a" />
+
+
 
 
 
