@@ -1,0 +1,106 @@
+(footprint "TP-SMD"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "0be91918-d1e2-4ae1-9a91-fc24095f1e9d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "24072f66-b9b7-4bbc-9456-502c637551bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9c0e0db9-2f01-411a-8348-4ec4ad817281")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a74c949-81a4-41b7-a8a3-c38d71721038")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.2 0)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2e0a791f-3e22-499c-9ce3-33dcb9cc3a6d")
+	)
+	(fp_rect
+		(start -1.25 -1.305433)
+		(end 1.305433 1.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "f2403eff-66b5-436e-ac90-506beefb9e85")
+	)
+	(fp_poly
+		(pts
+			(xy 1.055433 -1.022961) (xy 1.022961 -1.055433) (xy 0.977039 -1.055433) (xy 0.944567 -1.022961) (xy 0.944567 -0.977039)
+			(xy 0.977039 -0.944567) (xy 1.022961 -0.944567) (xy 1.055433 -0.977039)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "6f9bff40-cbe4-4e28-8cd3-2ad64fc64fbe")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "eeded073-651c-44cb-a933-0fb78494a358")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" smd circle
+		(at 0 0)
+		(size 2 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "8eaf43e1-ed04-48f8-9686-b52fa73b8849")
+	)
+	(embedded_fonts no)
+)
