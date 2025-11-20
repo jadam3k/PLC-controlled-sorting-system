@@ -1,13 +1,13 @@
-| Item                             | Description (English)                                           | Quantity | Unit Price (PLN) | Total Price (PLN) |
-| -------------------------------- | --------------------------------------------------------------- | -------- | ---------------- | ----------------- |
-| Grove Ultrasonic Distance Sensor | Grove Ultrasonic Distance Sensor                                | 2 pcs    | 47 PLN           | 94 PLN            |
-| 2020 aluminum profiles           | 2020 aluminum profiles                                          | —        | 340 PLN          | 340 PLN           |
-| PU pneumatic hose                | Polyurethane pneumatic hose PU 8/5 mm                           | —        | 4 PLN            | 4 PLN             |
-| FRL filter                       | Drain-oil filter regulator FRL 1/4″                             | —        | 86 PLN           | 86 PLN            |
-| Pneumatic solenoid valve NAMUR   | NAMUR 5/2 G 1/4 230V 4M31008AG AirTAC monostable solenoid valve | 2 pcs    | 192 PLN          | 384 PLN           |
-| Pneumatic cylinder               | Pneumatic actuator 32×200 mm, double-acting                     | —        | 310 PLN          | 310 PLN           |
-| Stepper motor driver             | Stepper motor driver for NEMA 16,17,23,24 up to 5.6 A           | —        | 90 PLN           | 90 PLN            |
-| Stepper motor NEMA23             | NEMA23 stepper motor 2 Nm, 3 A, type 57HS76-3004A08             | —        | 118 PLN          | 118 PLN           |
-| DIN rail power supply            | 24 V, 15 W DIN-rail power supply Qoltec                         | —        | 49 PLN           | 49 PLN            |
-| Circuit breaker                  | Overcurrent breaker HN-C20/1 194832                             | —        | 23 PLN           | 23 PLN            |
-| Control button                   | ONPOW LAS0-B3Y-11/R red NO/NC monostable push button            | 2 pcs    | 20 PLN           | 40 PLN            |
+Item,Description,Quantity,Unit Price (PLN),Total Price (PLN),Total Price (USD)
+"Grove Ultrasonic Distance Sensor","Grove Ultrasonic Distance Sensor",2,47,94,25.85
+"2020 aluminum profiles","2020 aluminum profiles (6 m)",1,340,340,93.47
+"PU pneumatic hose","Polyurethane hose PU 8/5 mm",1,4,4,1.10
+"FRL filter","Drain-oil filter regulator FRL 1/4″",1,86,86,23.65
+"Pneumatic solenoid valve NAMUR","NAMUR 5/2 G 1/4 230V AirTAC",2,192,384,105.72
+"Pneumatic cylinder","Pneumatic actuator 32×200 mm, double-acting",1,310,310,85.22
+"Stepper motor driver","Driver for NEMA 16/17/23/24 up to 5.6 A",1,90,90,24.74
+"Stepper motor NEMA23","NEMA23 2 Nm, 3 A (57HS76-3004A08)",1,118,118,32.45
+"DIN rail power supply","24 V 15 W Qoltec DIN-rail",1,49,49,13.47
+"Circuit breaker","Overcurrent breaker HN-C20/1",1,23,23,6.32
+"Control button","ONPOW LAS0-B3Y-11/R red NO/NC",2,20,40,10.99
+"Total","",,"",1938,534
