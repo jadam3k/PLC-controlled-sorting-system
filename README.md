@@ -14,27 +14,22 @@ Key features include:
 
 
 ---
+# BOM
+| Item | Description | Quantity | Unit Price (PLN) | Total Price (PLN) | Total Price (USD) |
+|---|---|---|---|---|---|
+| Grove Ultrasonic Distance Sensor | Grove Ultrasonic Distance Sensor | 2 | 47 | 94 | 25.85 |
+| 2020 aluminum profiles | 2020 aluminum profiles (6 m) | 1 | 340 | 340 | 93.47 |
+| PU pneumatic hose | Polyurethane hose PU 8/5 mm | 1 | 4 | 4 | 1.10 |
+| FRL filter | Drain-oil filter regulator FRL 1/4″ | 1 | 86 | 86 | 23.65 |
+| Pneumatic solenoid valve NAMUR | NAMUR 5/2 G 1/4 230V AirTAC | 2 | 192 | 384 | 105.72 |
+| Pneumatic cylinder | Pneumatic actuator 32×200 mm, double-acting | 1 | 310 | 310 | 85.22 |
+| Stepper motor driver | Driver for NEMA 16/17/23/24 up to 5.6 A | 1 | 90 | 90 | 24.74 |
+| Stepper motor NEMA23 | NEMA23 2 Nm, 3 A (57HS76-3004A08) | 1 | 118 | 118 | 32.45 |
+| DIN rail power supply | 24 V 15 W Qoltec DIN-rail | 1 | 49 | 49 | 13.47 |
+| Circuit breaker | Overcurrent breaker HN-C20/1 | 1 | 23 | 23 | 6.32 |
+| Control button | ONPOW LAS0-B3Y-11/R red NO/NC | 2 | 20 | 40 | 10.99 |
+| **Total** |  |  |  | **1,938 PLN** | **≈ 534 USD** |
 
-## Bill of Materials (BOM)
-
-| Component | Quantity | Price (PLN) |
-|-----------|---------|------------|
-| PU 8/5 mm pneumatic hose | 1 | 3.30 |
-| FRL unit (filter, dryer, oiler, regulator) 1/4" | 1 | 85.92 |
-| AirTAC 5/2 monostable pneumatic valve 4M310-08AG | 2 | 192.00 |
-| Double-acting pneumatic cylinder 32×200 mm | 2 | 310.00 |
-| Stepper driver 5.6 A | 1 | 90.00 |
-| Stepper motor NEMA23, 2.0 Nm | 1 | 118.00 |
-| DIN-rail 24V / 15W power supply (Qoltec) | 2 | 96.04 |
-| ONPOW button red NO/NC | 1 | 19.15 |
-| ONPOW button green NO/NC | 1 | 19.15 |
-| Siemens S7-1200 CPU 1214C | 1 | 1351.77 |
-| Aluminum extrusion profiles 2020 (6 meters) | 6 | 340.00 |
-| Grove Ultrasonic Distance Sensor (Seeedstudio) | 3 | 70.02 |
-| Circuit breaker HN-C20/1 194832 | 1 | 23.70 |
-
-
-**Total:** 2409.05 PLN
 
 
 
