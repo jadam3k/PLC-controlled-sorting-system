@@ -1,16 +1,13 @@
-Component,Quantity,Price (PLN)
-PU 8/5 mm pneumatic hose,1,3.30
-FRL unit 1/4in,1,85.92
-AirTAC 5/2 valve 4M310-08AG,2,192.00
-Double-acting cylinder 32x200 mm,2,310.00
-Stepper driver 5.6A,1,90.00
-NEMA23 stepper motor 2.0 Nm,1,118.00
-DIN-rail power supply 24V 15W (Qoltec),2,96.04
-ONPOW button red NO/NC,1,19.15
-ONPOW button green NO/NC,1,19.15
-Siemens S7-1200 CPU 1214C,1,1351.77
-2020 aluminum profiles (6 meters),6,340.00
-Grove Ultrasonic Distance Sensor (Seeedstudio),2,70.02
-T-slot 2020/2040 aluminum profiles for CNC machine frame,2,202.59
-Circuit breaker HN-C20/1 194832,1,23.70
-Stepper motor driver NEMA16/17/23/24 up to 5.6A,1,90.00
+| Item                             | Description (English)                                           | Quantity | Unit Price (PLN) | Total Price (PLN) |
+| -------------------------------- | --------------------------------------------------------------- | -------- | ---------------- | ----------------- |
+| Grove Ultrasonic Distance Sensor | Grove Ultrasonic Distance Sensor                                | 2 pcs    | 47 PLN           | 94 PLN            |
+| 2020 aluminum profiles           | 2020 aluminum profiles                                          | —        | 340 PLN          | 340 PLN           |
+| PU pneumatic hose                | Polyurethane pneumatic hose PU 8/5 mm                           | —        | 4 PLN            | 4 PLN             |
+| FRL filter                       | Drain-oil filter regulator FRL 1/4″                             | —        | 86 PLN           | 86 PLN            |
+| Pneumatic solenoid valve NAMUR   | NAMUR 5/2 G 1/4 230V 4M31008AG AirTAC monostable solenoid valve | 2 pcs    | 192 PLN          | 384 PLN           |
+| Pneumatic cylinder               | Pneumatic actuator 32×200 mm, double-acting                     | —        | 310 PLN          | 310 PLN           |
+| Stepper motor driver             | Stepper motor driver for NEMA 16,17,23,24 up to 5.6 A           | —        | 90 PLN           | 90 PLN            |
+| Stepper motor NEMA23             | NEMA23 stepper motor 2 Nm, 3 A, type 57HS76-3004A08             | —        | 118 PLN          | 118 PLN           |
+| DIN rail power supply            | 24 V, 15 W DIN-rail power supply Qoltec                         | —        | 49 PLN           | 49 PLN            |
+| Circuit breaker                  | Overcurrent breaker HN-C20/1 194832                             | —        | 23 PLN           | 23 PLN            |
+| Control button                   | ONPOW LAS0-B3Y-11/R red NO/NC monostable push button            | 2 pcs    | 20 PLN           | 40 PLN            |
