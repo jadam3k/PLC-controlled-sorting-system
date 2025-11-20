@@ -1,4 +1,5 @@
 ### Idk why journal doesnt work its not my fault
+### i have all components for plc in my house so i dont have to buy new ones
 
 # PLC-Controlled Sorting System
 
